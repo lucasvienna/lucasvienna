@@ -1,6 +1,6 @@
 # Lucas Vienna
 
-Software architect in Karlsruhe. I design and build cloud-native systems: infrastructure as code, CI/CD platforms and large frontend codebases.
+Full-stack software architect in Karlsruhe. I design and build cloud-native systems end to end: backend services, web frontends, infrastructure as code and CI/CD platforms.
 
 ## Projects
 
